@@ -1,4 +1,11 @@
+# 👋 Faisal Ateeq Al-Mutairi
+**Software Developer | Game Developer | Full-Stack Engineer**
+
+---
+
+
 # 💫 About Me:
+
 👨‍💻 I’m currently working on<br>A base-building game system and a few full-stack web tools for small businesses.<br><br>🤝 I’m looking to collaborate on<br>Indie game projects, game mechanics, and clean UI/UX systems.<br><br>🆘 I’m looking for help with<br>Optimizing game performance and scalable architecture.<br><br>📚 I’m currently learning<br>Advanced C#, game systems design, and backend optimization.<br><br>💬 Ask me about<br>Game development, JavaScript, C#, React, or system design.<br><br>⚡ Fun fact<br>I enjoy turning complex systems into simple, playable mechanics.
 
 
