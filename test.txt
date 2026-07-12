@@ -1,0 +1,17 @@
+The project is a modern frontend web application built using React and TypeScript, bundled with Vite.
+
+Key Technical Stack:
+- Language: TypeScript
+- Build Tool/Bundler: Vite
+- Styling: Tailwind CSS
+- UI Library: shadcn/ui (atomic components in src/components/ui)
+
+Directory Structure:
+- src/pages/: Page-based routing architecture (Index, about, projects, etc.)
+- src/components/ui/: Low-level reusable primitive components.
+- src/components/layout/: High-level layout wrappers (main-layout, sidebar).
+- src/hooks/: Custom React hooks for shared logic (use-mobile, use-translation).
+- src/i18n/: Internationalization layer and translations.
+- src/lib/: Utility functions.
+
+Summary: A well-structured, typed single-page application (SPA) utilizing a design system approach.
